@@ -1,7 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "points": [
+    {
+    "point_id": 32847221,
+    "lat": "56.299185",
+    "lng": "9.930217",
+    "type": "start",
+    "encode_path": ""
+    },
+    {
+    "point_id": 32847222,
+    "lat": "56.264301",
+    "lng": "10.033614",
+    "type": "via",
+    "encode_path": "{|rvIynr{@PmGn@{Ed@}EfJyw@pMsoAn@sDpAqFbAoCj@cB^gDhA_RXwELgGBqKHyCl@iIIyFl@sI@_E[cH`@iF|@mFh@gGp@aPp@_Hg@gF_@eEgAmKUiCOwCKcDMmEGuHCkEHeGP}D^uGz@sN^gEToEIgGRuFhAyE|@yBj@_Bz@oBbAoBbCiFvDmO`CcFvBiCpA}CpCiNxBaM`AqFxEgXbA{E|AmHjNgo@d@{CJiFBkCZ_Ex@kDd@sD\yFJgC\U|@`AzBfCzB~B`B|Az@z@rEnEjAhApFlF`KpG~DpAjDHfAAbFrAfDbAfAVxAJhCEhACvEE`AEdBS"
+    }
+  ],
+  "poly": [
+    "9.93022 56.29919",
+    "9.93156 56.2991",
+    "9.93267 56.29886",
+    "9.93377 56.29866",
+    "9.94287 56.29686",
+    "9.95577 56.29454",
+    "9.95666 56.29429",
+    "9.95787 56.29388",
+    "9.9586 56.29354",
+    "9.9591 56.29332",
+    "9.95994 56.29316",
+    "9.96298 56.29279",
+    "9.96406 56.29266",
+    "9.96538 56.2926",
+    "9.96739 56.29257",
+    "9.96816 56.29252",
+    "9.96981 56.29229",
+    "9.97106 56.29234",
+    "9.97276 56.29212"
   ]
 }
